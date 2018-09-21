@@ -1,7 +1,7 @@
 # Quantum Mechanics Simulations
 
 - [ ] Infinite Potential Well
-- [ ] Finite POtential Well
+- [ ] Finite Potential Well
 - [ ] Harmonic Oscillator
 
 In preparation for H3 Physics
